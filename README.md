@@ -42,6 +42,20 @@ Fahrenheit to Calsius.cpp
 Fahrenheit to Calsius translating program.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - -
+Recursive Function Example.cpp
+
+Task1
+Write a recursive function (use no while loops or for loops) 
+that prints all the elements of an array of integers, 
+one per line. The parameters to the function should be A (The array) 
+and n (the size of the array). 
+Task2 
+Find the sum of the integers from 1 through n. Use recursion.
+
+Task1 = ArrayPrint function
+Task2 = calculateSum function
+
+- - - - - - - - - - - - - - - - - - - - - - - - - -
 Structure Example.cpp
 
 A. Reading and Displaying Data  
