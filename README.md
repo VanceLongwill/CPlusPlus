@@ -37,6 +37,11 @@ total amount that the user will pay for each tariff type.
 Write the C++ source code of the above program.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - -
+Fahrenheit to Calsius.cpp
+
+Fahrenheit to Calsius translating program.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - -
 Structure Example.cpp
 
 A. Reading and Displaying Data  
