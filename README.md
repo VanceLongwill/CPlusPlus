@@ -44,13 +44,13 @@ Fahrenheit to Calsius translating program.
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 Program 2.cpp
 
-Declare an integer array of size 50
+Declare an integer array of size 50.
 Fill the elements of the array with random
-numbers between 120 and 300
-Swap the successive two elements of the array
+numbers between 120 and 300.
+Swap the successive two elements of the array.
 a[0] will be swapped with a[1], a[2] with a[3], a[4]
-with a[5], …., a[48] with a[49]
-Display the elements of the array
+with a[5], …., a[48] with a[49].
+Display the elements of the array.
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Recursive Function Example.cpp
@@ -95,6 +95,7 @@ name, surname and age respectively (using struct)
 Time h Example.cpp
 
 asctime() ve localtime() using
+
 - - - - - - - - - - - - - - - 
 Tree Binary Search.cpp
 
