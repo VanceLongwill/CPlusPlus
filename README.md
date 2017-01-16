@@ -42,6 +42,17 @@ Fahrenheit to Calsius.cpp
 Fahrenheit to Calsius translating program.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - -
+Program 2.cpp
+
+Declare an integer array of size 50
+Fill the elements of the array with random
+numbers between 120 and 300
+Swap the successive two elements of the array
+a[0] will be swapped with a[1], a[2] with a[3], a[4]
+with a[5], …., a[48] with a[49]
+Display the elements of the array
+- - - - - - - - - - - - - - - - - - - - - - - - - -
+
 Recursive Function Example.cpp
 
 Task1
